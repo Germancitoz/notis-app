@@ -1,5 +1,5 @@
 <script>
-  import AsideMenu from './components/AsideMenu.svelte'
+  import AsideMenu from './components/aside/AsideMenu.svelte'
   import NotesSection from './components/NotesSection.svelte'
 </script>
 
